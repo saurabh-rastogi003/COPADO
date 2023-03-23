@@ -8,6 +8,7 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
         <valueSet>
+            
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
